@@ -1,1 +1,2 @@
-# Ara-Yak-t-Tahmin-Sistemi
+# Arac-Yakit-Tahmin-Sistemi
+Veriseti: https://archive.ics.uci.edu/ml/datasets/Auto+MPG
