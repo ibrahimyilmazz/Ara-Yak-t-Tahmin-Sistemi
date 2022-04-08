@@ -1,2 +1,2 @@
 # Araç Yakıt Tahmin Sistemi
-Veriseti: auto-mpg.data (https://archive.ics.uci.edu/ml/datasets/Auto+MPG)
+Veri Seti: auto-mpg.data (https://archive.ics.uci.edu/ml/datasets/Auto+MPG)
